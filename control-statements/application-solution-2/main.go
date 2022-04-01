@@ -45,4 +45,4 @@ func main() {
 	}
 }
 
-// https://www.practical-go-lessons.com/chap-9-control-statements#switch-case - website
+// https://www.practical-go-lessons.com/chap-9-control-statements#switch-case
